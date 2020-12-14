@@ -8,7 +8,7 @@
   
 <h1> Hi Everyone! 🙋‍♂️ </h1>
 
-I'm Selmir, a budding __*data analyst*__ who is taking the rather unconventional way to achieve his goal, namely through self-education, online courses, and basically learning by doing.
+I'm Selmir, a budding __*data analyst*__ who is taking a rather unconventional way to achieve his goal, namely through self-education, online courses, and basically learning by doing.
 
   
 <h2> Get in touch! </h2>  
