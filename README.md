@@ -1,4 +1,4 @@
-<a href="https://www.selmirkalender.com"><img src="https://media-exp1.licdn.com/dms/image/C4E16AQFgVTeUDmvDMg/profile-displaybackgroundimage-shrink_350_1400/0/1608488995797?e=1614816000&v=beta&t=cZ4hdz8KcMcYDa8hQNWG-iGE4ZWgl5UFW4NaG1GRtOk"></a>
+<a href="https://www.selmirkalender.com"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dH-lwIJGxa2R1e-5PRm5ZxZslE0dwh1pAemPpTmaZGfDQuCILl1Xv417xNL9elotwYDHrchRksENajcT_R5hRMdhcwF5o9PkgqwfRilJpRxSSlOf0qMVlw75mtk_HM0P5ZT-Haf6fZnkUhg3xIMAik=w1605-h901-no?authuser=0"></a>
 
 
 <p align="center">
