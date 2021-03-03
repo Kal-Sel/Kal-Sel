@@ -1,9 +1,9 @@
-<a href="https://www.selmirkalender.com"><img src="https://lh3.googleusercontent.com/pw/ACtC-3cbUVx4yqek5edwWKIPGCkeau2t8Be_Vnv6sUj0n_Ut9l4l3k_CzJGctTUhJj_pljv91w4KWmkPqd5d6-mFKHcWXSDNQ0rbH04RVHBUqtyG9h4tzOpGUFZImGlMhao9MK689W9Kkxtf0C-YcNRvNF2p=w1400-h425-no?authuser=0"></a>
+<a href="https://www.selmirkalender.com"><img src="https://lh3.googleusercontent.com/l7aKn1NFSeRqjskTz5PtIqMvYDjrEnYio4G_FtazNURASAGBDPh0dQP0HftvepoX9LfciqTPN__igWx1PPODYwr14KrwYd9fq-MiYpyAeS_3pZSy30NZzyTg_HHlefEEYIz_czxClEZtLuNimwyDBUpaHeUoTx8Q7I-H9Pc-9QIBFMcXCPXr-OnIbaWquSrKSry1qUUxlnYHH3f8r0XI-8MsGbm6bmWz0EQikcX65n5qSBwHw-7ugTVpSxswGfZoXs_GLt67yRAIpvNA-1ZbYr95Kvsjf77iMNpxVpcy6AbLq-PC8uJSFZCOvL1yLDZh3HRK4AQv4wvzZUcMvW1lgiRFZlwPQPKz7PFrzqxqmNLOB5-E0XOPaGdQXAfWIYg2IZEJAqjMTdTsmH47e26ZbMWtXsS-t6Wh_PaHPWPw1Diacp3Ix61qZgvZqn0qFELdgY36yBQJmlGMAkVM3GSJro6xmqMQ3du-6tINAc4jfcj0OiB01H0Pno74ux7iTHN9LXRp133Y4komvD4PX94u_kED3P2PxyeFlOxVkvoF3eGYkSwxQ8LofgFVh3vndJbHrNohsUnhctJObpEFp1THOC9nT4Fwp84NLgDiT8qcI9oVXqaftiuIRzAP22t8ci_WmWAoqf-Zf5_dY0lCtq5e4emYjs8mRxtLJ3gFWbbH1huEJA3Tl9qfZFji2KH8hg=w1184-h292-no?authuser=0"></a>
 
 
 <p align="center">
-<a href="http://linkedin.com/in/selmirkalender"><img src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" width="55" height="40" border="0"></a><a href="https://www.xing.com/profile/Selmir_Kalender/portfolio"><img src="https://hashtagchefin.at/wp-content/uploads/2018/02/xing-logo-3bd7a34cb3daaa40-256x256.png" width="40" height="40" border="0"></a>
-<a href="https://www.selmirkalender.com"><img src="https://www.logolynx.com/images/logolynx/2d/2d9b83e7e721da89b2cebc00d8239248.png" width="39" height="39" border="0"></a>
+<a href="http://linkedin.com/in/selmirkalender"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50" height="40" border="0"></a><a href="https://www.xing.com/profile/Selmir_Kalender/portfolio"><img src="https://www.schwagedruck.de/wp-content/uploads/2018/10/if_xing_291712-1.png" width="50" height="40" border="0"></a>
+<a href="https://www.selmirkalender.com"><img src="https://logodix.com/logo/636182.png" width="50" height="40" border="0"></a>
 </p>
   
 <h1> Hi Everyone! 🙋‍♂️ </h1>
