@@ -18,7 +18,7 @@ You can find me on [LinkedIn](http://linkedin.com/in/selmirkalender), or [Xing](
   
 <h2> Technologies and Tools </h2>
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=WINDOWS&logoColor=white&color=informational) ![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=PYTHON&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Language-MySQL-blueviolet?style=plastic&logo=mysql&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/Tool-Tableau-9cf?style=plastic&logo=TABLEAU&logoColor=white&color=9cf) ![](https://img.shields.io/badge/Tool-PowerBI-informational?style=plastic&logo=power-bi&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Tool-MSOffice-informational?style=plastic&logo=MICROSOFT&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=WINDOWS&logoColor=white&color=informational) ![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=PYTHON&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Language-MySQL-blueviolet?style=plastic&logo=mysql&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/Tool-Tableau-9cf?style=plastic&logo=TABLEAU&logoColor=white&color=9cf) ![](https://img.shields.io/badge/Tool-PowerBI-informational?style=plastic&logo=power-bi&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Tool-MSExcel-informational?style=plastic&logo=MICROSOFT&logoColor=white&color=blue)
 
 
 
