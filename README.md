@@ -6,19 +6,14 @@
   
 <h1> Hi Everyone! 🙋‍♂️ </h1>
 
-I'm Selmir, a budding __*data analyst*__ who is taking a rather unconventional way to achieve his goal, namely through self-education, online courses, and basically learning by doing.
+I'm Selmir, a budding __*data analyst*__ who is taking a rather unconventional way to achieve his goal, namely through self-education, diverse online courses and programs, and basically learning by doing.
 
   
 <h2> Get in touch! </h2>  
 
-You can find me on [LinkedIn](http://linkedin.com/in/selmirkalender), or [Xing](https://www.xing.com/profile/Selmir_Kalender/portfolio), or my personal [website](https://www.selmirkalender.com) on which I'm maintaining a [blog](https://www.selmirkalender.com/blog) initially for the balkan region.  
+You can find me on [LinkedIn](http://linkedin.com/in/selmirkalender), or [Xing](https://www.xing.com/profile/Selmir_Kalender/portfolio), or my personal [website](https://www.selmirkalender.com) where I'm maintaining a [blog](https://www.selmirkalender.com/blog) initially for the balkan region.  
  
   
 <h2> Technologies and Tools </h2>
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=WINDOWS&logoColor=white&color=informational) ![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=PYTHON&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Language-MySQL-blueviolet?style=plastic&logo=mysql&logoColor=white&color=blueviolet) ![](https://img.shields.io/badge/Language-PostgreSQL-blueviolet?style=plastic&logo=postgresql&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-HTML-informational?style=plastic&logo=HTML&logoColor=white&color=yellowgreen) ![](https://img.shields.io/badge/Tool-Tableau-9cf?style=plastic&logo=TABLEAU&logoColor=white&color=9cf) ![](https://img.shields.io/badge/Tool-PowerBI-informational?style=plastic&logo=power-bi&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Tool-MSExcel-informational?style=plastic&logo=WINDOWS&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tool-Jupyter-informational?style=plastic&logo=CODE&logoColor=white&color=orange) ![](https://img.shields.io/badge/Tool-PowerPoint-informational?style=plastic&logo=WINDOWS&logoColor=white&color=red)
-
-
-
-
-
