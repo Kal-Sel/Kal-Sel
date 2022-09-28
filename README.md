@@ -1,8 +1,8 @@
-<a href="[http://linkedin.com/in/selmirkalender]" title="Selmir Kalender"><img src="[https://media-exp3.licdn.com/dms/image/C4E16AQH3hzwTdMXMww/profile-displaybackgroundimage-shrink_350_1400/0/1621891229807?e=1628726400&v=beta&t=tCHc47q3pgjSNX3IPCC_nQsx1l-Nj2rR6yDF4nMbmcE](https://www.canva.com/design/DAFNdFp4ZlI/mQVx-RG9mTsBCrNBv1qdBg/edit?utm_content=DAFNdFp4ZlI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"></a>
+<a href="[http://linkedin.com/in/selmirkalender]" title="Selmir Kalender"><img src="https://media-exp3.licdn.com/dms/image/C4E16AQH3hzwTdMXMww/profile-displaybackgroundimage-shrink_350_1400/0/1621891229807?e=1628726400&v=beta&t=tCHc47q3pgjSNX3IPCC_nQsx1l-Nj2rR6yDF4nMbmcE"></a>
 
 
 <p align="center">
-<a href="http://linkedin.com/in/selmirkalender" title="LinkedIn"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50" height="40" border="0"></a><a href="https://www.xing.com/profile/Selmir_Kalender/portfolio" title="Xing"><img src="https://www.schwagedruck.de/wp-content/uploads/2018/10/if_xing_291712-1.png" width="50" height="40" border="0"></a><a href="https://twitter.com/SelKal5" title="Twitter"><img src="[https://logodix.com/logo/636182.png](https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png)" width="51" height="42" border="0"></a></p>
+<a href="http://linkedin.com/in/selmirkalender" title="LinkedIn"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50" height="40" border="0"></a><a href="https://www.xing.com/profile/Selmir_Kalender/portfolio" title="Xing"><img src="https://www.schwagedruck.de/wp-content/uploads/2018/10/if_xing_291712-1.png" width="50" height="40" border="0"></a><a href="https://twitter.com/SelKal5" title="Twitter"><img src="https://logodix.com/logo/636182.png](https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="51" height="42" border="0"></a></p>
   
 <h1> Hi Everyone! 🙋‍♂️ </h1>
 
