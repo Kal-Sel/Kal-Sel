@@ -1,4 +1,4 @@
-<a href="[http://linkedin.com/in/selmirkalender]" title="Selmir Kalender"><img src="https://media-exp3.licdn.com/dms/image/C4E16AQH3hzwTdMXMww/profile-displaybackgroundimage-shrink_350_1400/0/1621891229807?e=1628726400&v=beta&t=tCHc47q3pgjSNX3IPCC_nQsx1l-Nj2rR6yDF4nMbmcE"></a>
+<a href="http://linkedin.com/in/selmirkalender" title="Selmir Kalender"><img src="https://www.canva.com/design/DAFNdFp4ZlI/i5nUHmCkvQMoyP0-A4hi-Q/watch?utm_content=DAFNdFp4ZlI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"></a>
 
 
 <p align="center">
