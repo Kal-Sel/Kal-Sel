@@ -1,4 +1,4 @@
-<a href="http://linkedin.com/in/selmirkalender" title="Selmir Kalender"><img src="https://drive.google.com/file/d/1fI7bFP8RCwqDWdzjAxxF7siSXsJorqDO/view?usp=sharing"></a>
+<a href="http://linkedin.com/in/selmirkalender" title="Selmir Kalender"><img src="https://i.postimg.cc/rmD3TgHk/Linked-In-Banner.png"></a>
 
 
 <p align="center">
