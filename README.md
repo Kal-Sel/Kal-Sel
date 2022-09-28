@@ -11,7 +11,7 @@ I'm Selmir, a __*data visualization consultant*__ who took a rather unconvention
   
 <h2> Get in touch! </h2>  
 
-You can find me on [LinkedIn](http://linkedin.com/in/selmirkalender), or [Xing](https://www.xing.com/profile/Selmir_Kalender/portfolio), or my personal [website](https://www.selmirkalender.com) where I'm maintaining a [blog](https://www.selmirkalender.com/blog) initially for the balkan region.  
+You can find me on [LinkedIn](http://linkedin.com/in/selmirkalender), or [Xing](https://www.xing.com/profile/Selmir_Kalender/portfolio), or [Twitter](https://twitter.com/SelKal5).  
  
   
 <h2> Technologies and Tools </h2>
