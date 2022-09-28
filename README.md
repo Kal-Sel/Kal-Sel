@@ -1,4 +1,4 @@
-<a href="http://linkedin.com/in/selmirkalender" title="Selmir Kalender"><img src="https://www.canva.com/design/DAFNdFp4ZlI/i5nUHmCkvQMoyP0-A4hi-Q/watch?utm_content=DAFNdFp4ZlI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"></a>
+<a href="http://linkedin.com/in/selmirkalender" title="Selmir Kalender"><img src="https://drive.google.com/file/d/1fI7bFP8RCwqDWdzjAxxF7siSXsJorqDO/view?usp=sharing"></a>
 
 
 <p align="center">
