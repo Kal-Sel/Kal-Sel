@@ -6,7 +6,7 @@
   
 <h1> Hi Everyone! 🙋‍♂️ </h1>
 
-I'm Selmir, a *data visualization specialist* who took a rather unconventional way to achieve his goal, namely through self-education, diverse online courses and programs, and basically learning by doing.
+I'm Selmir, a data visualization specialist and data analyst who took a rather unconventional way to achieve his goal, namely through self-education, diverse online courses and programs, and basically learning by doing.
 
   
 <h2> Get in touch! </h2>  
