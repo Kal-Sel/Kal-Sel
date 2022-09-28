@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="http://linkedin.com/in/selmirkalender" title="LinkedIn"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50" height="40" border="0"></a><a href="https://www.xing.com/profile/Selmir_Kalender/portfolio" title="Xing"><img src="https://www.schwagedruck.de/wp-content/uploads/2018/10/if_xing_291712-1.png" width="50" height="40" border="0"></a><a href="https://twitter.com/SelKal5" title="Twitter"><img src="https://brandlogos.net/wp-content/uploads/2016/11/twitter-icon-circle-blue-logo-preview-400x400.png" width="65" height="55" border="0"></a></p>
+<a href="http://linkedin.com/in/selmirkalender" title="LinkedIn"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50" height="40" border="0"></a><a href="https://www.xing.com/profile/Selmir_Kalender/portfolio" title="Xing"><img src="https://www.schwagedruck.de/wp-content/uploads/2018/10/if_xing_291712-1.png" width="50" height="40" border="0"></a><a href="https://twitter.com/SelKal5" title="Twitter"><img src="https://brandlogos.net/wp-content/uploads/2016/11/twitter-icon-circle-blue-logo-preview-400x400.png" width="50" height="40" border="0"></a></p>
   
 <h1> Hi Everyone! 🙋‍♂️ </h1>
 
