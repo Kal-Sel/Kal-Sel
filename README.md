@@ -12,7 +12,7 @@ I'm Selmir, a data visualization specialist and data analyst who took a rather u
 <h2> Get in touch! </h2>  
 
 You can find me on [LinkedIn](http://linkedin.com/in/selmirkalender), or [Xing](https://www.xing.com/profile/Selmir_Kalender041731/cv).
-You can download my resume by clicking [here](https://github.com/Kal-Sel/Kal-Sel/blob/main/Selmir%20Kalender%20Resume%20w_o%20number.pdf)!
+You can download my resume by clicking [here](https://github.com/Kal-Sel/Kal-Sel/blob/main/Selmir%20Kalender%20Resume_wo_Number.pdf)!
  
   
 <h2> Technologies and Tools </h2>
