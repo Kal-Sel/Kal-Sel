@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="http://linkedin.com/in/selmirkalender" title="LinkedIn"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50" height="40" border="0"></a><a href="[https://www.xing.com/profile/Selmir_Kalender/portfolio](https://www.xing.com/profile/Selmir_Kalender041731/cv)" title="Xing"><img src="https://www.schwagedruck.de/wp-content/uploads/2018/10/if_xing_291712-1.png" width="50" height="40" border="0"></a></p>
+<a href="http://linkedin.com/in/selmirkalender" title="LinkedIn"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50" height="40" border="0"></a><a href="https://www.xing.com/profile/Selmir_Kalender041731/cv" title="Xing"><img src="https://www.schwagedruck.de/wp-content/uploads/2018/10/if_xing_291712-1.png" width="50" height="40" border="0"></a></p>
   
 <h1> Hi Everyone! 🙋‍♂️ </h1>
 
@@ -11,7 +11,7 @@ I'm Selmir, a data visualization specialist and data analyst who took a rather u
   
 <h2> Get in touch! </h2>  
 
-You can find me on [LinkedIn](http://linkedin.com/in/selmirkalender), or [Xing]([https://www.xing.com/profile/Selmir_Kalender/portfolio](https://www.xing.com/profile/Selmir_Kalender041731/cv)).
+You can find me on [LinkedIn](http://linkedin.com/in/selmirkalender), or [Xing](https://www.xing.com/profile/Selmir_Kalender041731/cv).
 You can download my resume by clicking [here](https://github.com/Kal-Sel/Kal-Sel/blob/main/Selmir%20Kalender%20Resume%20w_o%20number.pdf)!
  
   
