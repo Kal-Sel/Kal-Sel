@@ -6,7 +6,7 @@
   
 <h1> Hi Everyone! 🙋‍♂️ </h1>
 
-I'm Selmir, a data visualization specialist and data analyst who took a rather unconventional way to achieve his goal, namely through self-education, diverse online courses and programs, and basically learning by doing.
+I'm Selmir, a Data Visualization Specialist, and as such I leverage advanced tools like Microsoft Power BI and Tableau to transform complex data into actionable insights for clients across industries. Passionate about data storytelling, I excel in communicating strategic insights that drive business decisions, collaborating effectively with teams and stakeholders. 
 
   
 <h2> Get in touch! </h2>  
