@@ -6,7 +6,7 @@
   
 <h1> Hi Everyone! 🙋‍♂️ </h1>
 
-I'm Selmir, a Data Visualization Specialist, and as such I leverage advanced tools like Microsoft Power BI and Tableau to transform complex data into actionable insights for clients across industries. Passionate about data storytelling, I excel in communicating strategic insights that drive business decisions, collaborating effectively with teams and stakeholders. 
+I'm Selmir, a Power BI Developer and a Data Analyst, commited to transform complex data into captivating stories that drive informed decision-making. My work is centered on leveraging data to support strategic decisions and enhance business performance through effective visualization and analysis.
 
   
 <h2> Get in touch! </h2>  
