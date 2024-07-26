@@ -12,7 +12,7 @@ I'm Selmir, a Power BI Developer and a Data Analyst, commited to transform compl
 <h2> Get in touch! </h2>  
 
 You can find me on [LinkedIn](http://linkedin.com/in/selmirkalender), or [Xing](https://www.xing.com/profile/Selmir_Kalender041731/cv).
-You can download my resume by clicking [here](https://github.com/Kal-Sel/Kal-Sel/raw/main/Selmir%20Kalender%20Resume%20w_o%20number.pdf)!
+You can download my resume by clicking [here](https://github.com/Kal-Sel/Kal-Sel/raw/main/Selmir%20Kalender%20Resume%20wo%20number.pdf)!
  
   
 <h2> Technologies and Tools </h2>
